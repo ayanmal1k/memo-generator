@@ -1,0 +1,5 @@
+tk
+datetime
+ollama
+python-docx
+docx2pdf
